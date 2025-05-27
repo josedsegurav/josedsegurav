@@ -23,7 +23,7 @@ to create a $25K winning hackathon project. Currently mastering full-stack devel
 *Because who doesn't want to stalk their own Spotify habits?*
 - **Tech:** React, Next.js, TypeScript, Spotify API
 - **Features:** OAuth 2.0 authentication, real-time music data, integrated player
-- **Fun Fact:** Discovered I listen to way too much lo-fi hip hop while coding
+- **Fun Fact:** Discovered I listen to way too much Final Fantasy soundtracks while coding
 
 ### 💰 Personal Finance Tracker  
 *Teaching money management, one expense at a time*
