@@ -4,7 +4,7 @@
 Building scalable web applications with modern technologies. Recently collaborated with 80+ developers 
 to create a $25K winning hackathon project. Currently mastering full-stack development at Red River College.
 
-**🔗 Connect:** [LinkedIn](linkedin.com/in/jose-segura-viteri) | **📧 Contact:** josesegurav@outlook.com
+**🔗 Connect:** [LinkedIn](https://linkedin.com/in/jose-segura-viteri) | **📧 Contact:** josesegurav@outlook.com
 
 ## 🛠️ Tech Stack
 
@@ -72,5 +72,5 @@ Whether you need:
 **I'm your person!**
 
 📧 **Email:** josesegurav@outlook.com  
-💼 **LinkedIn:** [jose-segura-viteri](linkedin.com/in/jose-segura-viteri)  
+💼 **LinkedIn:** [jose-segura-viteri](https://linkedin.com/in/jose-segura-viteri)  
 🎵 **Bonus:** Great music recommendations included at no extra charge
