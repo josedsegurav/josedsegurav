@@ -19,7 +19,7 @@ to create a $25K winning hackathon project. Currently mastering full-stack devel
 
 ## 🚀 Things I've Built (That Actually Work!)
 
-### 🎵 Your Music App
+### 🎵 [Your Music App](https://github.com/josedsegurav/musicapp)
 *Because who doesn't want to stalk their own Spotify habits?*
 - **Tech:** React, Next.js, TypeScript, Spotify API
 - **Features:** OAuth 2.0 authentication, real-time music data, integrated player
