@@ -6,6 +6,8 @@ to create a $25K winning hackathon project. Currently mastering full-stack devel
 
 **🔗 Connect:** [LinkedIn](https://linkedin.com/in/jose-segura-viteri) | **📧 Contact:** josesegurav@outlook.com
 
+Check out my blog website! [consoleLogLife](https://consoleloglife.com/)
+
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,13 +27,13 @@ to create a $25K winning hackathon project. Currently mastering full-stack devel
 - **Features:** OAuth 2.0 authentication, real-time music data, integrated player
 - **Fun Fact:** Discovered I listen to way too much Final Fantasy soundtracks while coding
 
-### 💰 Personal Finance Tracker  
+### 💰 [Personal Finance Tracker](https://personal-finance-track-six.vercel.app/)  
 *Teaching money management, one expense at a time*
 - **Tech:** React, Next.js, Supabase, Tailwind CSS
 - **Features:** Expense tracking, income monitoring, detailed analytics
 - **Achievement Unlocked:** Finally knowing where my money goes!
 
-### 🏠 InteriorItems CMS
+### 🏠 [InteriorItems CMS](https://github.com/josedsegurav/cmsproject)
 *Where interior designers meet organized chaos*
 - **Tech:** PHP, JavaScript, MySQL, Bootstrap
 - **Features:** User authentication, content management, image galleries
