@@ -1,8 +1,8 @@
 # Hi there! I'm Jose Segura 👋
 ## Full-Stack Developer
 
-Building scalable web applications with modern technologies. Recently collaborated with 80+ developers 
-to create a $25K winning hackathon project. Currently mastering full-stack development at Red River College.
+Building scalable web applications with modern technologies. Recently collaborated with 50+ developers 
+to create a web and mobile app hackathon project. Currently mastering full-stack development at Red River College.
 
 **🔗 Connect:** [LinkedIn](https://linkedin.com/in/jose-segura-viteri) | **📧 Contact:** josesegurav@outlook.com | **Check out my blog website!** [consoleLogLife](https://consoleloglife.com/)
 
