@@ -4,6 +4,8 @@
 Building scalable web applications with modern technologies. Recently collaborated with 50+ developers 
 to create a web and mobile app hackathon project. Currently mastering full-stack development at Red River College.
 
+Check out my blog here [consoleLogLife](https://consoleloglife.com/)
+
 **🔗 Connect:** [LinkedIn](https://linkedin.com/in/jose-segura-viteri) | **📧 Contact:** josesegurav@outlook.com | **Check out my blog website!** [consoleLogLife](https://consoleloglife.com/)
 
 ## 🛠️ Tech Stack
